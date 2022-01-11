@@ -1,0 +1,13 @@
+Window;When;WindowPrecis;Group reproductive synchrony ;AIC_conception_brut;AIC_conception;AIC_FPPO_brut;AIC_FPPO
+1;around;1s;Number of conceptions the same month;1139,95;12,41;1008,91;5,04
+1;before;1b;Number of conceptions over the past month;1135,26;7,72;1008,96;5,09
+1;after;1a;Number of conceptions the next month;1136,65;9,11;1010,67;6,8
+2;around;2s;Number of conceptions 1 month around the focal event;1131,49;3,95;1011,08;7,21
+2;before;2b;Number of conceptions over the past 2 months;1133,43;5,89;1007,25;3,38
+2;after;2a;Number of conceptions the next 2 months;1140,01;12,47;1010,35;6,48
+3;around;4s;Number of conceptions 2 months around the focal event;1133,41;5,87;1011,3;7,43
+3;before;4b;Number of conceptions over the past 4 months;1127,54;0;1007,48;3,61
+3;after;4a;Number of conceptions the next 4 months;1141,21;13,67;1010,59;6,72
+4;around;6s;Number of conceptions 3 months around the focal event;1136,51;8,97;1011,24;7,37
+4;before;6b;Number of conceptions over the past 6 months;1130,87;3,33;1003,87;0
+4;after;6a;Number of conceptions the next 6 months;1142,13;14,59;1009,63;5,76
